@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/serincon/ContosoAir/_apis/build/status/srinconp.ContosoAir?branchName=master)](https://dev.azure.com/serincon/ContosoAir/_build/latest?definitionId=15&branchName=master)
 
 
 # Microsoft.Github CI Demo
